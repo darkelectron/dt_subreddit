@@ -34,32 +34,29 @@ An Unofficial place for questions, discussions, tutorials, workflows and possibl
 
 # Versions
 
-## Upcoming Version[s]:
+## Current Version: [3.4.0](https://github.com/darktable-org/darktable/releases/tag/release-3.4.0)
 
-- 3.4.0 - _24 December 2020_
-
-## Current Version: [3.2.1](https://github.com/darktable-org/darktable/releases/tag/release-3.2.1)
-
-:: _10 August 2020_
+:: _24 December 2020_
 
 __Big Changes__
 
-- The _lighttable_ view has been rewritten and the film strip reworked.
-    Different overlay(many types) information can be selected depending on the thumb on the lighttable.
-- A complete overhaul of the CSS.
-- The new negadoctor module has been added to help inverting negative films.
-- A new histogram display called RGB Parade has been added. At the same time the histogram module height can now be adjusted with `Ctrl+Scroll`.
-- Clarify the three possible workflows. The new preference introduces three workflows:
-    + display-referred : use base-curve module
-    + scene-referred : use filmic and exposure modules (new default)
-    + none : use neither base-curve nor filmic
-- Filmic RGB is updated to v4 (new color science) with integrated highlight recovery.
+- Darkroom
+  + Improved filmic view for user education
+  + Retouch module GUI rework
+  + Revamp white balance UI
+- Preferences
+  + Change to pixel workflow no longer requires a restart
+  + Change to preview downsampling no longer requires a restart
+  + Add ability to delete presets and cleanly remove any associated keyboard shortcuts
+- Other
+  + Collect module - grouping on image attribute combobox
+  + CLI improvements
 
 ## Previous Versions: 
 
+- [3.2.1](https://github.com/darktable-org/darktable/releases/tag/release-3.2.1) - _10 August 2020_
 - [3.0.2](https://github.com/darktable-org/darktable/releases/tag/release-3.0.2) - _15 April 2020_
 - [3.0.1](https://github.com/darktable-org/darktable/releases/tag/release-3.0.1) - _09 March 2020_  
-- [3.0.0](https://github.com/darktable-org/darktable/releases/tag/release-3.0.0) - _24 December 2019_
 
 # Help
 New to darktable and not sure where to start? These links may be of help.
