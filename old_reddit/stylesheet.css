@@ -76,7 +76,7 @@
   z-index: 1;
 }
 
-/* help section */
+/* top bar help section */
 
 .side .usertext-body h4:first-of-type {
     position:absolute;
@@ -92,14 +92,16 @@
     top:120px
 }
 .side .usertext-body h4:first-of-type a {
-    color:#262626;
+    color:#FFF;
     font-size:14px;
-    /* border-bottom:1px dotted */
+    border:5px solid;
+    padding: 5px;
+    background: #262626;
 }
 
 .content { margin-top: 50px; }
 
-/* end help section */
+/* end top bar help section */
 
 
 /*main sidebar titles and css ribbon*/
@@ -120,6 +122,7 @@ div.titlebox h1 {
    position: relative;
    padding-left: 10px; 
    padding-top: 10px;
+   border-radius: 10px;
 }
 
 h1.redditname {overflow: visible!important;}
@@ -130,7 +133,6 @@ h1.redditname {overflow: visible!important;}
 div.sidecontentbox .title h1 {
     color: #fff; 
     background-color: #262626;
-    color: #fff!important;
     padding-left: 10px; 
     padding-top: 10px;
 }
@@ -143,11 +145,20 @@ div.sidecontentbox .title {
     vertical-align: middle;
     margin-left: -5px;
     position: relative;
+    border-radius: 5px;
 }
 /* div.sidecontentbox .title:after {content: ' ';position: absolute;width: 0;height: 0;left: 0px;top: 100%;border-width: 5px 5px;border-style: solid;border-color: #595959 #595959 transparent transparent;} */
 
-span.collapse-button {margin-bottom:8px!important;}
-.sidecontentbox a.helplink {margin-top:-13px;margin-right:5px;}
+span.collapse-button 
+{
+    margin-bottom:8px!important;
+}
+
+.sidecontentbox a.helplink 
+{
+    margin-top:-13px;
+    margin-right:5px;
+}
 
 /* end of sidebar titles */
 
@@ -158,7 +169,6 @@ span.collapse-button {margin-bottom:8px!important;}
     padding: 5px 10px;
     font-weight: bold;
     color: #fff;
-    /* border: 1px solid #000; */
     border-radius: 15px;
 }
 
