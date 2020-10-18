@@ -99,7 +99,12 @@
     background: #262626;
 }
 
-.content { margin-top: 50px; }
+.content 
+{ 
+    margin-top: 60px;
+    border-radius: 10px;
+    background: #eee; 
+}
 
 /* end top bar help section */
 
@@ -130,6 +135,20 @@ h1.redditname {overflow: visible!important;}
 /* div.titlebox h1:after {content: ' ';position: absolute;width: 0;height: 0;left: 0px;top: 100%;border-width: 5px 5px;border-style: solid;border-color: #595959 #595959 transparent transparent;}  */
 
 /*sidebar content titles and css ribbon*/
+
+
+div.titlebox {
+    background: #eee;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+div.sidecontentbox {
+    background: #eee;
+    padding: 10px;
+    border-radius: 10px;
+}
+
 div.sidecontentbox .title h1 {
     color: #fff; 
     background-color: #262626;
