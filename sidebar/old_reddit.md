@@ -86,7 +86,7 @@ New to darktable and not sure where to start? These links may be of help.
 * [r/FOSSPhotography](https://www.reddit.com/r/FOSSPhotography/)
 * [r/Rawtherapee](https://www.reddit.com/r/Rawtherapee/)
 * [r/GIMP](https://www.reddit.com/r/GIMP/)
-* [r/rita](https://www.reddit.com/r/Krita/)
+* [r/Krita](https://www.reddit.com/r/Krita/)
 * [r/Inkscape](https://www.reddit.com/r/Inkscape/)
 * [r/Hugin](https://www.reddit.com/r/Hugin/)
 * [r/imagemagick](https://www.reddit.com/r/imagemagick/)
