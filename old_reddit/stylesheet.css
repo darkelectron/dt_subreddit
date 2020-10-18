@@ -1,0 +1,183 @@
+#header {
+  background: url(%%header002%%) left center;
+  height: 128px;
+  background-color: #262626;
+  background-repeat: no-repeat;
+  border-bottom-color : #262626;
+}
+
+#header-bottom-right {
+  position: absolute;
+  text-align: center;
+  background-color: transparent;
+  border-top-left-radius:0px;
+  top: 50px;
+  font-size: 15px;
+  color: #FFF;
+}
+
+#header-bottom-right a, #header-bottom-right .user, #header-bottom-right .user .userkarma {
+  color: #FFF;
+  font-size: 11px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* tab menu */
+.tabmenu {margin-top: 15px;}
+
+#header-bottom-left .tabmenu {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50px;
+    background: none;
+}
+
+#header-bottom-left .tabmenu li a {
+  background: #262626;
+  padding: 0px 5px;
+  color: #fff;
+  border-bottom: none;
+  font-size: 13px;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);
+}
+
+#header-bottom-left .tabmenu li.selected a {
+  border: none;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 15px;
+  font-weight: bold;
+  transition: all 0.3s ease 0s;
+}
+
+#header-bottom-left .tabmenu li a:hover {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 15px;
+  color: #fff;
+  transition: all 0.3s ease 0s;
+}
+
+#header .tabmenu li a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
+
+#header-img {
+  color: #5E5E5E;
+  position: center;
+  height: 30px !important;
+  width: 30px;
+  margin-top: 60px;
+  margin-left: 0px;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  z-index: 1;
+}
+
+/* help section */
+
+.side .usertext-body h4:first-of-type {
+    position:absolute;
+    left:50px;
+    z-index:90;
+    font-size:20px;
+    font-weight:700;
+    padding:6px 20px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    background:#fff;
+    color:#fff;
+    top:120px
+}
+.side .usertext-body h4:first-of-type a {
+    color:#262626;
+    font-size:14px;
+    /* border-bottom:1px dotted */
+}
+
+.content { margin-top: 50px; }
+
+/* end help section */
+
+
+/*main sidebar titles and css ribbon*/
+.redditname a {
+   color: #fff!important;
+   text-decoration: none;
+   padding-left:0px;
+}
+div.titlebox h1 {
+   color: #fff; 
+   background-color: #262626;
+   height: 35px;
+   line-height:35px;
+   vertical-align: middle;
+   margin-left: -5px;
+   margin-right: -5px;
+   margin-top: -5px;
+   position: relative;
+   padding-left: 10px; 
+   padding-top: 10px;
+}
+
+h1.redditname {overflow: visible!important;}
+
+/* div.titlebox h1:after {content: ' ';position: absolute;width: 0;height: 0;left: 0px;top: 100%;border-width: 5px 5px;border-style: solid;border-color: #595959 #595959 transparent transparent;}  */
+
+/*sidebar content titles and css ribbon*/
+div.sidecontentbox .title h1 {
+    color: #fff; 
+    background-color: #262626;
+    color: #fff!important;
+    padding-left: 10px; 
+    padding-top: 10px;
+}
+
+div.sidecontentbox .title {
+    color: #fff; 
+    background-color: #262626;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    margin-left: -5px;
+    position: relative;
+}
+/* div.sidecontentbox .title:after {content: ' ';position: absolute;width: 0;height: 0;left: 0px;top: 100%;border-width: 5px 5px;border-style: solid;border-color: #595959 #595959 transparent transparent;} */
+
+span.collapse-button {margin-bottom:8px!important;}
+.sidecontentbox a.helplink {margin-top:-13px;margin-right:5px;}
+
+/* end of sidebar titles */
+
+/* filter by flair */
+
+.side .md [href*="search?q=flair"] {
+    display: inline-block;
+    padding: 5px 10px;
+    font-weight: bold;
+    color: #fff;
+    /* border: 1px solid #000; */
+    border-radius: 15px;
+}
+
+.side .md [href*="search?q=flair%3A'Help'"] {
+    background: #b8001f;
+}
+
+.side .md [href*="search?q=flair%3A'Solved'"] {
+    background: #e06510;
+}
+
+.side .md [href*="search?q=flair%3A'Discussion'"] {
+    background: #e2bd1c;
+}
+
+.side .md [href*="search?q=flair%3A'Possible%27Bug'"] {
+    background: #298326;
+}
+
+.side .md [href*="search?q=flair%3A'Resource'"] {
+    background: #2567c6;
+}
