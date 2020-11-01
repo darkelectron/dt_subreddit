@@ -1,3 +1,3 @@
 # dt_subreddit
 
-Wiki, sidebar files for darktable subreddit
+Files for [darktable](https://www.reddit.com/r/DarkTable).
