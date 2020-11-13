@@ -20,7 +20,9 @@ An Unofficial place for questions, discussions, tutorials, workflows and possibl
 * [darktable on github](https://github.com/darktable-org/darktable)
 * [Bug Reports](https://github.com/darktable-org/darktable/issues)
 
-## __User Manual: 3.x.x__ 
+## __User Manual: 3.x.x__
+
+:: [online manual(English)](https://elstoc.github.io/dtdocs/) updated for __version 3.4__
 
 | Online                                                                   | PDF                                                                                                                               |
 | :-:                                                                      | :-:                                                                                                                               |
@@ -52,11 +54,11 @@ __Big Changes__
   + Collect module - grouping on image attribute combobox
   + CLI improvements
 
-## Previous Versions: 
+## Previous Versions:
 
 - [3.2.1](https://github.com/darktable-org/darktable/releases/tag/release-3.2.1) - _10 August 2020_
 - [3.0.2](https://github.com/darktable-org/darktable/releases/tag/release-3.0.2) - _15 April 2020_
-- [3.0.1](https://github.com/darktable-org/darktable/releases/tag/release-3.0.1) - _09 March 2020_  
+- [3.0.1](https://github.com/darktable-org/darktable/releases/tag/release-3.0.1) - _09 March 2020_
 
 # Help
 New to darktable and not sure where to start? These links may be of help.

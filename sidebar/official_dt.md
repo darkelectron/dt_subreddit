@@ -9,7 +9,9 @@
 * [darktable on github](https://github.com/darktable-org/darktable)
 * [Bug Reports](https://github.com/darktable-org/darktable/issues)
 
-# __User Manual: 3.x.x__ 
+# __User Manual: 3.x.x__
+
+:: [online manual(English)](https://elstoc.github.io/dtdocs/) updated for __version 3.4__
 
 | Online                                                                   | PDF                                                                                                                               |
 | :-:                                                                      | :-:                                                                                                                               |
