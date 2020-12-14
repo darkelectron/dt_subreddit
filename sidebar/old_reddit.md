@@ -41,17 +41,11 @@ An Unofficial place for questions, discussions, tutorials, workflows and possibl
 
 __Big Changes__
 
-- Darkroom
-  + Improved filmic view for user education
-  + Retouch module GUI rework
-  + Revamp white balance UI
-- Preferences
-  + Change to pixel workflow no longer requires a restart
-  + Change to preview downsampling no longer requires a restart
-  + Add ability to delete presets and cleanly remove any associated keyboard shortcuts
-- Other
-  + Collect module - grouping on image attribute combobox
-  + CLI improvements
+- The tethering view has been reworked.
+- Histogram is back on the tethering view.
+- A new module grouping feature, making "more modules" at the bottom obsolete.
+- Processing modules now have a tooltip.
+- Importing pictures from memory cards no longer uses gPhoto API - good news for windows users.
 
 ## Previous Versions:
 
