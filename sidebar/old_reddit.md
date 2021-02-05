@@ -9,20 +9,20 @@ An Unofficial place for questions, discussions, tutorials, workflows and possibl
 #### [wiki](https://old.reddit.com/r/DarkTable/wiki/index) | [FAQ](https://old.reddit.com/r/DarkTable/wiki/faq) | [Resources](https://old.reddit.com/r/DarkTable/wiki/resources)
 
 # Official darktable
-## :link: __darktable links__
-* :house: [darktable](https://darktable.org/)
-* :grey_question: [Install darktable](https://darktable.org/install)
-* :information_source: [Resources](https://darktable.org/resources)
-* :question: [FAQ](https://www.darktable.org/about/faq/)
-* :interrobang: [Contributing](https://www.darktable.org/development/)
+## 🔗 __darktable links__
+* 🏠 [darktable](https://darktable.org/)
+* ❔ [Install darktable](https://darktable.org/install)
+* ℹ️  [Resources](https://darktable.org/resources)
+* ❓ [FAQ](https://www.darktable.org/about/faq/)
+* ⁉️  [Contributing](https://www.darktable.org/development/)
 
-## :link: __Github links__
-* :construction: [darktable on github](https://github.com/darktable-org/darktable)
-* :x: [Bug Reports](https://github.com/darktable-org/darktable/issues)
+## 🔗 __Github links__
+* 🚧 [darktable on github](https://github.com/darktable-org/darktable)
+* ❌ [Bug Reports](https://github.com/darktable-org/darktable/issues)
 
-## :books: __User Manual__
+## 📚 __User Manual__
 
-| :bookmark: Online                                                        | :book: PDF                                                                                                                        |
+| 🔖 Online                                                                | 📖 PDF                                                                                                                            |
 | :-:                                                                      | :-:                                                                                                                               |
 | [English](https://www.darktable.org/usermanual/en/)                      | [English](https://www.darktable.org/usermanual/en/darktable_user_manual.pdf)                                                      |
 | [French](https://darktable.gitlab.io/doc/fr/index.html)                  | [French](https://github.com/darktable-org/darktable/releases/download/release-3.0.0/darktable-usermanual-fr.pdf)                  |
@@ -38,9 +38,9 @@ An Unofficial place for questions, discussions, tutorials, workflows and possibl
 
 ## Current Version: [3.4.0](https://github.com/darktable-org/darktable/releases/tag/release-3.4.0)
 
-:date: _24 December 2020_
+:: _24 December 2020_
 
-:new: __Big Changes__
+__Big Changes__
 
 - The tethering view has been reworked.
 - Histogram is back on the tethering view.

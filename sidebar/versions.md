@@ -1,8 +1,8 @@
 # Current Version: [3.4.0](https://github.com/darktable-org/darktable/releases/tag/release-3.4.0)
 
-:date: _24 December 2020_
+:: _24 December 2020_
 
-:new: __Big Changes__
+__Big Changes__
 
 - The tethering view has been reworked.
 - Histogram is back on the tethering view.
