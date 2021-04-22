@@ -5,13 +5,15 @@
 * ❓ [FAQ](https://www.darktable.org/about/faq/)
 * ⁉️  [Contributing](https://www.darktable.org/development/)
 
-🔗 __Development__
+# 🔗 __Development__
 * 🚧 [darktable](https://github.com/darktable-org/darktable)
 * ❌ [Bug Reports](https://github.com/darktable-org/darktable/issues)
 ___
+
 * 🚧 [darktable documentation](https://github.com/darktable-org/dtdocs)
 * ❌ [Bug Reports](https://github.com/darktable-org/dtdocs/issues)
 ___
+
 * 🚧 [darktable site](https://github.com/darktable-org/dtorg)
 * ❌ [Bug Reports](https://github.com/darktable-org/dtorg/issues)
 
