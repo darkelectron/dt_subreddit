@@ -70,6 +70,16 @@ __Bug Fixes__
 - [3.0.2](https://github.com/darktable-org/darktable/releases/tag/release-3.0.2) - _15 April 2020_
 - [3.0.1](https://github.com/darktable-org/darktable/releases/tag/release-3.0.1) - _09 March 2020_
 
+# Deprecated Modules
+
+| Name              | Replaced By           |
+| :-:               | :-:                   |
+| channel mixer     | color calibration     |
+| fill light        | tone equlizer         |
+| global tonemap    | filmic rgb            |
+| invert            | negadoctor            |
+| tone mapping      | tone equlizer         |
+| zone system       | tone equlizer         |
 
 # Help
 New to darktable and not sure where to start? These links may be of help.
