@@ -1,3 +1,5 @@
+\* This only shows the stable releases.
+
 # Current Version: [3.6.0](https://github.com/darktable-org/darktable/releases/tag/release-3.6.0)
 
 :: 03 July 2021
